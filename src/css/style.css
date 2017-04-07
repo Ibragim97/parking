@@ -1,0 +1,33 @@
+body {
+	
+}
+h1 {
+	margin: 30px 50px;
+	font-weight: bold;
+}
+h3 {
+		text-align: justify;
+	text-justify: inter-word;
+
+}
+
+table {
+	margin: 30px 50px;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 500px;
+}
+
+.ban {
+	background: #ff0000;
+}
+.pass {
+	background:  #33cc33;
+}
+
+td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+    font-size: 25px;
+}
