@@ -1,3 +1,3 @@
 # Parking
 
-Dislays car plate numbers recognized via Android Alpr
+Displays car plate numbers recognized via Android Alpr
